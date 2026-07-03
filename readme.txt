@@ -1,31 +1,31 @@
-Free Download Source Code "Voting Management System"
+# Voting Management System
 
-FIRST Download
+A web-based Voting Management System developed using **PHP, MySQL, HTML, CSS, JavaScript, and Bootstrap**. The application provides a secure and user-friendly platform for conducting digital elections, allowing administrators to manage elections, candidates, and voters efficiently.
 
-1.XAMPP
+## Key Features
 
-2."TEXT EDITOR" NOTEPAD++ OR SUBLIME TEXT 3 / ETC.
+* Admin dashboard for election management
+* Candidate management
+* Voter registration and management
+* Secure login system
+* Online voting interface
+* Real-time vote counting and result generation
+* Responsive and easy-to-use interface
 
-3"Voting_Management_System"
+## Technologies Used
 
-4. Download the zip file/ download winrar
+* PHP
+* MySQL
+* HTML5
+* CSS3
+* JavaScript
+* Bootstrap
+* XAMPP (Local Development)
 
-5. Extract the file and copy "Voting_Management_System" folder
+## Default Login Credentials
 
-6.Paste inside root directory/ where you install xammp local disk C: drive D: drive E: paste: (for xampp/htdocs, 
+### Admin
 
-7. Open PHPMyAdmin (http://localhost/phpmyadmin)
-
-8. Create a database with name voting_db
-
-6. Import voting_db.sql file(given inside the zip package in SQL file folder)
-
-7.Run the script http://localhost/Voting-Management-System
-
-
-**LOGIN DETAILS** 
-
-Admin
-user: admin
-pass: password
+* **Username:** `admin`
+* **Password:** `password`
 
