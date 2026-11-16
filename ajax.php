@@ -68,3 +68,4 @@ if($action == 'submit_vote'){
 	if($save)
 		echo $save;
 }
+
